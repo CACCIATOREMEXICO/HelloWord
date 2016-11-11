@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 A EMPEZAR DE NUEVO!!!!!!!
+=======
+A EMPEZAR DE NUEVO!!!!!!!
+>>>>>>> 8233db89f96c718c267baf216945cadff6048ac4
